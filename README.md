@@ -17,5 +17,6 @@ Note: It only works with Raspberry Pi because of the temperature measurement. If
 
 ## More Information
 * [Raspberry Pi 3 Model B & B+ Performance Tests](https://lemariva.com/blog/2018/04/raspberry-pi-the-n-queens-problem-performance-test)
+* [Raspberry Pi 4 Model B Performance Tests](https://lemariva.com/blog/2019/08/raspberry-pi-4b-new-cpu-faster)
 
 If you find the results of the Performance Tests useful, please leave a comment and spread the news! Thanks!
